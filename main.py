@@ -28,3 +28,5 @@ def print_report(word_count : int, letter_dict : dict):
         print(f"The {letter} character was found {count} times")
 
 main()
+
+#test
